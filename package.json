@@ -1,0 +1,9 @@
+{
+  "name": "flow-export-call-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.103.0"
+  }
+}
